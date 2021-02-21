@@ -1,0 +1,24 @@
+.nav-link{
+    color: white important;
+}
+.bg-green{
+    background: rgb(26, 190, 182);
+}
+.bg-blue{
+    background:yellow;
+}
+.bg-yellow{
+    background: pink;
+}
+.bg-skyblue{
+    background:skyblue;
+}
+.card-body{
+    background: palegreen;
+}
+.bg-black{
+    background:black ;
+}
+.bg-silver{
+    background-color: grey;
+}
